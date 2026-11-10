@@ -1,0 +1,4 @@
+"""
+Attack/Defense strength, lambdas
+
+"""
